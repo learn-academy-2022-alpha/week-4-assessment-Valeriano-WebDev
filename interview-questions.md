@@ -38,7 +38,6 @@ https://dmitripavlutin.com/react-props/
 ****  Reference ****
 https://medium.com/geekculture/event-handlers-vs-event-listeners-in-javascript-b4086b8040b0
 
-
 3. What is object-oriented programming? How is it different than functional programming?
 
   Your answer:
@@ -88,7 +87,6 @@ end
 
 ****  Reference ****
 https://dev.to/ting682/implicit-vs-explicit-returns-14j5
-
 
 ## Looking Ahead: Terms for Next Week
 

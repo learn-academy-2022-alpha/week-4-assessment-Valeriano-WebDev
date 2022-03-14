@@ -29,7 +29,6 @@
  expected output is a subset of the original array.
  **/
 
-
 // a) Create a test with an expect statement using the variable provided. HINT: Check out this resource: https://jestjs.io/docs/expect#expectarraycontainingarray
 describe("removeAndShuffle", () => {
     it("takes in an array, removes the first item from the array and shuffles the remaining content.", () => {

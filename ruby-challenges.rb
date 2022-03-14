@@ -1,7 +1,8 @@
 # ASSESSMENT 4: Ruby Coding Practical Questions
 # MINASWAN
 #Matz is nice so we are nice ;)
-# --------------------1) Create a method that takes in a number and determines if the number is even or odd. Use the test variables provided.
+# --------------------1) Create a method that takes in a number and determines if the number is even or odd.
+# Use the test variables provided.
 
 num1 = 7
 # Expected output: '7 is odd'
@@ -22,7 +23,8 @@ even_or_odd 7
 even_or_odd 42
 even_or_odd 221
 
-# -------------------2) Create a method that takes in a string and removes all the vowels from the string. Use the test variables provided. HINT: Check out this resource: https://ruby-doc.org/core-2.6/String.html#method-i-delete
+# -------------------2) Create a method that takes in a string and removes all the vowels from the string.
+# Use the test variables provided. HINT: Check out this resource: https://ruby-doc.org/core-2.6/String.html#method-i-delete
 
 album1 = 'Rubber Soul'
 # Expected output: 'Rbbr Sl'
@@ -39,7 +41,8 @@ delete_vowel 'Rubber Soul'
 delete_vowel 'Sgt Pepper'
 delete_vowel 'Abbey Road'
 
-# -------------------3) Create a method that takes in a string and checks if the string is a palindrome. A palindrome is the same word spelled forwards or backwards. Use the test variables provided.
+# -------------------3) Create a method that takes in a string and checks if the string is a palindrome.
+# A palindrome is the same word spelled forwards or backwards. Use the test variables provided.
 
 is_palindrome1 = 'Racecar'
 # Expected output: 'Racecar is a palindrome'
